@@ -1,4 +1,4 @@
-# Script para automação de preenchimento de documentos/diplomas em massa somento com Python.
+# Script para automação de preenchimento de documentos/diplomas em massa somente com Python.
 
 ![preview](./certificados_criados/example.PNG)
 
