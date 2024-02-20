@@ -1,6 +1,6 @@
 # Script para automação de preenchimento de documentos/diplomas em massa.
 
-![preview](.Imagens/example.png)
+![preview](.certificados_criados/example.png)
 
 ># Script para automação de preenchimento de documentos/diplomas em massa.
 
